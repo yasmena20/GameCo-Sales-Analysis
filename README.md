@@ -1,4 +1,4 @@
-# GameCo-Sales-Analysis
+# GameCo-Sales-Analysis-excel
 Context
 --------
 GameCo's executive board assumes that sales for various geographic regions have remained consistent over time. This assumption guides their planning for the 2017 marketing budget, with an expectation that historical sales trends will continue into the future. In the following project, i will explore key findings that challenge this assumption and provide insights to inform strategic decisions for the upcoming marketing budget.
